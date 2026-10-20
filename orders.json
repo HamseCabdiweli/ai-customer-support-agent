@@ -1,0 +1,23 @@
+[
+    {
+        "order_id": "1042",
+        "customer": "Amina",
+        "status": "shipped",
+        "estimated_delivery": "Friday",
+        "total": 89.99
+    },
+    {
+        "order_id": "1043",
+        "customer": "Ali",
+        "status": "processing",
+        "estimated_delivery": "Monday",
+        "total": 42.50
+    },
+    {
+        "order_id": "1044",
+        "customer": "Hamse",
+        "status": "delivered",
+        "estimated_delivery": "Delivered yesterday",
+        "total": 125.00
+    }
+]
